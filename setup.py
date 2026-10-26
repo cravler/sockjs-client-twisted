@@ -22,7 +22,7 @@ setup(
     include_package_data=True,
     platforms='any',
     install_requires=[
-        'Twisted', 'autobahn[twisted]==0.10.2'
+        'Twisted', 'autobahn[twisted]==26.7.1'
     ],
     classifiers=[
         "Framework :: Twisted",
